@@ -1,0 +1,27 @@
+ZCZC pwd
+/home/nadhirarafik/RESULT/W08
+ZCZC date
+Sat 08 May 2021 10:31:32 PM WIB
+ZCZC df
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             2556640       0   2556640   0% /dev
+tmpfs             514304    6884    507420   2% /run
+/dev/sda2       65543732 1084716  61099784   2% /
+tmpfs            2571512       0   2571512   0% /dev/shm
+tmpfs               5120       0      5120   0% /run/lock
+tmpfs            2571512       0   2571512   0% /sys/fs/cgroup
+/dev/sdb2       65543732   53272  62131228   1% /mnt/lfs
+tmpfs             514300       0    514300   0% /run/user/1000
+tmpfs             514300       0    514300   0% /run/user/1001
+ZCZC hostnamectl
+   Static hostname: nadhirarafik
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: 3821e3074f7148e687322f91fdb6b4b3
+           Boot ID: 579d9b9e19284b059ee101212280f7a1
+    Virtualization: oracle
+  Operating System: Debian GNU/Linux 10 (buster)
+            Kernel: Linux 4.19.0-16-amd64
+      Architecture: x86-64
+ZCZC chktoken
+nadhirarafik 3227-CED3
