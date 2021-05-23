@@ -1,0 +1,438 @@
+ZCZC ===== Chapter 07_7 =====  Week 09 =====
+ZCZC pwd /home/nadhirarafik/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-1354
+ZCZC hostname nadhirarafik
+ZCZC username nadhirarafik
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5419-1408 Verified
+ZCZC MaxLFS 3089M
+ZCZC MaxROOT 1730M
+ZCZC MaxMemory 96M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 97M
+ZCZC MaxMemory 98M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5522-3862 Verified
+ZCZC MaxLFS 3115M
+ZCZC MaxMemory 125M
+ZCZC MaxLFS 3260M
+ZCZC MaxMemory 164M
+ZCZC MaxLFS 3416M
+ZCZC MaxMemory 165M
+ZCZC MaxLFS 3554M
+ZCZC MaxMemory 168M
+ZCZC MaxLFS 3717M
+ZCZC MaxMemory 170M
+ZCZC MaxLFS 3884M
+ZCZC MaxMemory 171M
+ZCZC MaxLFS 3967M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5624-9573 Verified
+ZCZC MaxLFS 3968M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5726-A6C8 Verified
+ZCZC MaxLFS 3971M
+ZCZC MaxLFS 3973M
+ZCZC MaxLFS 3977M
+ZCZC MaxMemory 246M
+ZCZC MaxLFS 3979M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5828-DAFE Verified
+ZCZC MaxLFS 3985M
+ZCZC MaxLFS 3986M
+ZCZC MaxMemory 286M
+ZCZC MaxLFS 3990M
+ZCZC MaxMemory 331M
+ZCZC MaxLFS 3991M
+ZCZC MaxMemory 369M
+ZCZC MaxLFS 3994M
+ZCZC MaxMemory 567M
+ZCZC MaxLFS 3997M
+ZCZC MaxLFS 4000M
+ZCZC MaxLFS 4002M
+ZCZC MaxLFS 4003M
+ZCZC MaxLFS 4023M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5931-E4E8 Verified
+ZCZC MaxLFS 4025M
+ZCZC MaxMemory 764M
+ZCZC MaxLFS 4029M
+ZCZC MaxLFS 4036M
+ZCZC MaxLFS 4042M
+ZCZC MaxLFS 4051M
+ZCZC MaxLFS 4057M
+ZCZC MaxLFS 4059M
+ZCZC MaxLFS 4079M
+ZCZC MaxLFS 4148M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0033-8D35 Verified
+ZCZC MaxLFS 4154M
+ZCZC MaxLFS 4208M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0135-BACC Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0237-0D7B Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0338-454A Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0440-C19F Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0541-DDB1 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0643-1D73 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0745-B966 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0847-715D Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0948-3C3F Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1050-8D2A Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1151-D480 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1253-00E8 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1355-EB3E Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1456-2BA3 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1558-8758 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1700-53E7 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1801-8A2E Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1903-83A7 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2005-290A Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2106-A05B Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2208-85BB Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2309-8C35 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2411-95CE Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2513-F8E5 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2615-FC57 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2716-4356 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2818-68B0 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2920-8C7E Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 3022-9344 Verified
+ZCZC MaxMemory 765M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 3124-25C6 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 3227-6954 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 3330-0E96 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 3432-C805 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 3534-6AA7 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 3636-9437 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 3738-DD3B Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 3841-B6A0 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 3943-A114 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 4045-D216 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 4147-7DA5 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 4249-21A7 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 4351-C5CA Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 4452-2D93 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 4554-1902 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 4656-4EFF Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 4758-EA33 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 4901-EA94 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5002-B7CA Verified
+ZCZC MaxROOT 1731M
+ZCZC MaxROOT 1732M
+ZCZC MaxROOT 1733M
+ZCZC MaxROOT 1734M
+ZCZC MaxROOT 1736M
+ZCZC MaxROOT 1737M
+ZCZC MaxROOT 1738M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5104-3FAF Verified
+ZCZC MaxROOT 1740M
+ZCZC MaxROOT 1741M
+ZCZC MaxROOT 1742M
+ZCZC MaxROOT 1743M
+ZCZC MaxROOT 1744M
+ZCZC MaxROOT 1745M
+ZCZC MaxROOT 1746M
+ZCZC MaxROOT 1747M
+ZCZC MaxROOT 1748M
+ZCZC MaxROOT 1749M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5205-48E9 Verified
+ZCZC MaxROOT 1750M
+ZCZC MaxROOT 1752M
+ZCZC MaxROOT 1753M
+ZCZC MaxROOT 1754M
+ZCZC MaxROOT 1755M
+ZCZC MaxROOT 1756M
+ZCZC MaxROOT 1757M
+ZCZC MaxROOT 1759M
+ZCZC MaxROOT 1760M
+ZCZC MaxROOT 1761M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5307-5264 Verified
+ZCZC MaxROOT 1763M
+ZCZC MaxROOT 1764M
+ZCZC MaxROOT 1766M
+ZCZC MaxROOT 1767M
+ZCZC MaxROOT 1768M
+ZCZC MaxROOT 1770M
+ZCZC MaxROOT 1771M
+ZCZC MaxROOT 1772M
+ZCZC MaxROOT 1774M
+ZCZC MaxROOT 1775M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5408-EB8E Verified
+ZCZC MaxROOT 1777M
+ZCZC MaxROOT 1778M
+ZCZC MaxROOT 1779M
+ZCZC MaxROOT 1781M
+ZCZC MaxROOT 1782M
+ZCZC MaxROOT 1783M
+ZCZC MaxROOT 1785M
+ZCZC MaxROOT 1786M
+ZCZC MaxROOT 1787M
+ZCZC MaxROOT 1788M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5510-7476 Verified
+ZCZC MaxROOT 1789M
+ZCZC MaxROOT 1790M
+ZCZC MaxROOT 1791M
+ZCZC MaxROOT 1792M
+ZCZC MaxROOT 1793M
+ZCZC MaxROOT 1794M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5611-2C1A Verified
+ZCZC MaxROOT 1795M
+ZCZC MaxROOT 1796M
+ZCZC MaxROOT 1797M
+ZCZC MaxROOT 1798M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5714-71FE Verified
+ZCZC MaxROOT 1799M
+ZCZC MaxROOT 1800M
+ZCZC MaxROOT 1802M
+ZCZC MaxROOT 1803M
+ZCZC MaxROOT 1805M
+ZCZC MaxROOT 1806M
+ZCZC MaxROOT 1807M
+ZCZC MaxROOT 1808M
+ZCZC MaxROOT 1810M
+ZCZC MaxROOT 1811M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5816-9FB9 Verified
+ZCZC MaxROOT 1813M
+ZCZC MaxROOT 1814M
+ZCZC MaxROOT 1816M
+ZCZC MaxROOT 1817M
+ZCZC MaxROOT 1819M
+ZCZC MaxROOT 1820M
+ZCZC MaxROOT 1822M
+ZCZC MaxROOT 1823M
+ZCZC MaxROOT 1824M
+ZCZC MaxROOT 1826M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 5918-05D8 Verified
+ZCZC MaxROOT 1827M
+ZCZC MaxROOT 1829M
+ZCZC MaxROOT 1830M
+ZCZC MaxROOT 1831M
+ZCZC MaxROOT 1833M
+ZCZC MaxROOT 1834M
+ZCZC MaxROOT 1835M
+ZCZC MaxROOT 1836M
+ZCZC MaxROOT 1837M
+ZCZC MaxROOT 1838M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0019-0B9D Verified
+ZCZC MaxROOT 1839M
+ZCZC MaxROOT 1840M
+ZCZC MaxROOT 1841M
+ZCZC MaxROOT 1842M
+ZCZC MaxROOT 1843M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0120-7D79 Verified
+ZCZC MaxROOT 1844M
+ZCZC MaxROOT 1845M
+ZCZC MaxROOT 1846M
+ZCZC MaxROOT 1847M
+ZCZC MaxROOT 1849M
+ZCZC MaxROOT 1851M
+ZCZC MaxROOT 1853M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0222-B181 Verified
+ZCZC MaxROOT 1854M
+ZCZC MaxROOT 1855M
+ZCZC MaxROOT 1857M
+ZCZC MaxROOT 1859M
+ZCZC MaxROOT 1860M
+ZCZC MaxROOT 1862M
+ZCZC MaxROOT 1863M
+ZCZC MaxROOT 1865M
+ZCZC MaxROOT 1867M
+ZCZC MaxROOT 1868M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0323-F93F Verified
+ZCZC MaxROOT 1870M
+ZCZC MaxROOT 1872M
+ZCZC MaxROOT 1874M
+ZCZC MaxROOT 1875M
+ZCZC MaxROOT 1877M
+ZCZC MaxROOT 1879M
+ZCZC MaxROOT 1880M
+ZCZC MaxROOT 1882M
+ZCZC MaxROOT 1883M
+ZCZC MaxROOT 1885M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0424-E150 Verified
+ZCZC MaxROOT 1886M
+ZCZC MaxROOT 1887M
+ZCZC MaxROOT 1889M
+ZCZC MaxROOT 1890M
+ZCZC MaxROOT 1891M
+ZCZC MaxROOT 1892M
+ZCZC MaxROOT 1893M
+ZCZC MaxROOT 1894M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0526-F171 Verified
+ZCZC MaxROOT 1895M
+ZCZC MaxROOT 1896M
+ZCZC MaxROOT 1897M
+ZCZC MaxROOT 1898M
+ZCZC MaxROOT 1899M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0627-F74D Verified
+ZCZC MaxROOT 1900M
+ZCZC MaxROOT 1901M
+ZCZC MaxROOT 1902M
+ZCZC MaxROOT 1903M
+ZCZC MaxROOT 1904M
+ZCZC MaxROOT 1905M
+ZCZC MaxROOT 1906M
+ZCZC MaxROOT 1907M
+ZCZC MaxROOT 1908M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0729-BEE8 Verified
+ZCZC MaxROOT 1911M
+ZCZC MaxROOT 1912M
+ZCZC MaxROOT 1913M
+ZCZC MaxROOT 1914M
+ZCZC MaxROOT 1915M
+ZCZC MaxROOT 1916M
+ZCZC MaxROOT 1917M
+ZCZC MaxROOT 1918M
+ZCZC MaxROOT 1919M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0830-8B92 Verified
+ZCZC MaxROOT 1921M
+ZCZC MaxROOT 1922M
+ZCZC MaxROOT 1923M
+ZCZC MaxROOT 1925M
+ZCZC MaxROOT 1926M
+ZCZC MaxROOT 1927M
+ZCZC MaxROOT 1928M
+ZCZC MaxROOT 1931M
+ZCZC MaxROOT 1932M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0931-4BE4 Verified
+ZCZC MaxROOT 1933M
+ZCZC MaxROOT 1934M
+ZCZC MaxROOT 1935M
+ZCZC MaxROOT 1936M
+ZCZC MaxROOT 1937M
+ZCZC MaxROOT 1938M
+ZCZC MaxROOT 1939M
+ZCZC MaxROOT 1941M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1033-4FB0 Verified
+ZCZC MaxROOT 1942M
+ZCZC MaxROOT 1944M
+ZCZC MaxROOT 1946M
+ZCZC MaxROOT 1947M
+ZCZC MaxROOT 1950M
+ZCZC MaxROOT 1952M
+ZCZC MaxROOT 1954M
+ZCZC MaxROOT 1966M
+ZCZC MaxROOT 1978M
+ZCZC MaxROOT 1989M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1134-FD33 Verified
+ZCZC MaxROOT 2002M
+ZCZC MaxROOT 2014M
+ZCZC MaxROOT 2025M
+ZCZC MaxROOT 2037M
+ZCZC MaxROOT 2049M
+ZCZC MaxROOT 2060M
+ZCZC MaxROOT 2072M
+ZCZC MaxROOT 2084M
+ZCZC MaxROOT 2096M
+ZCZC MaxROOT 2108M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1235-D41F Verified
+ZCZC MaxROOT 2122M
+ZCZC MaxROOT 2134M
+ZCZC MaxROOT 2146M
+ZCZC MaxROOT 2158M
+ZCZC MaxROOT 2170M
+ZCZC MaxROOT 2181M
+ZCZC MaxROOT 2193M
+ZCZC MaxROOT 2205M
+ZCZC MaxROOT 2217M
+ZCZC MaxROOT 2229M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1336-4E26 Verified
+ZCZC MaxROOT 2243M
+ZCZC MaxROOT 2255M
+ZCZC MaxROOT 2267M
+ZCZC MaxROOT 2279M
+ZCZC MaxROOT 2290M
+ZCZC MaxROOT 2301M
+ZCZC MaxROOT 2312M
+ZCZC MaxROOT 2323M
+ZCZC MaxROOT 2335M
+ZCZC MaxROOT 2346M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1438-98E4 Verified
+ZCZC MaxROOT 2360M
+ZCZC MaxROOT 2372M
+ZCZC MaxROOT 2384M
+ZCZC MaxROOT 2386M
+ZCZC MaxROOT 2389M
+ZCZC MaxROOT 2392M
+ZCZC MaxROOT 2395M
+ZCZC MaxROOT 2399M
+ZCZC MaxROOT 2401M
+ZCZC MaxROOT 2403M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1539-1DA5 Verified
+ZCZC MaxROOT 2408M
+ZCZC MaxROOT 2411M
+ZCZC MaxROOT 2414M
+ZCZC MaxROOT 2417M
+ZCZC MaxROOT 2420M
+ZCZC MaxROOT 2424M
+ZCZC MaxROOT 2427M
+ZCZC MaxROOT 2430M
+ZCZC MaxROOT 2434M
+ZCZC MaxROOT 2437M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1640-FDF5 Verified
+ZCZC MaxROOT 2441M
+ZCZC MaxROOT 2444M
+ZCZC MaxROOT 2445M
+ZCZC MaxROOT 2447M
+ZCZC MaxROOT 2448M
+ZCZC MaxROOT 2449M
+ZCZC MaxROOT 2451M
+ZCZC MaxROOT 2452M
+ZCZC MaxROOT 2453M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1741-1181 Verified
+ZCZC MaxROOT 2454M
+ZCZC MaxROOT 2455M
+ZCZC MaxROOT 2458M
+ZCZC MaxROOT 2461M
+ZCZC MaxROOT 2463M
+ZCZC MaxROOT 2466M
+ZCZC MaxROOT 2469M
+ZCZC MaxROOT 2472M
+ZCZC MaxROOT 2475M
+ZCZC MaxROOT 2479M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1842-A39C Verified
+ZCZC MaxROOT 2483M
+ZCZC MaxROOT 2486M
+ZCZC MaxROOT 2489M
+ZCZC MaxROOT 2492M
+ZCZC MaxROOT 2494M
+ZCZC MaxROOT 2496M
+ZCZC MaxROOT 2497M
+ZCZC MaxROOT 2499M
+ZCZC MaxROOT 2500M
+ZCZC MaxROOT 2501M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 1944-760E Verified
+ZCZC MaxROOT 2503M
+ZCZC MaxROOT 2504M
+ZCZC MaxROOT 2505M
+ZCZC MaxROOT 2509M
+ZCZC MaxROOT 2512M
+ZCZC MaxROOT 2515M
+ZCZC MaxROOT 2518M
+ZCZC MaxROOT 2521M
+ZCZC MaxROOT 2524M
+ZCZC MaxROOT 2527M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2045-C388 Verified
+ZCZC MaxROOT 2530M
+ZCZC MaxROOT 2534M
+ZCZC MaxROOT 2537M
+ZCZC MaxROOT 2540M
+ZCZC MaxROOT 2544M
+ZCZC MaxROOT 2546M
+ZCZC MaxROOT 2549M
+ZCZC MaxROOT 2550M
+ZCZC MaxROOT 2552M
+ZCZC MaxROOT 2553M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2146-015C Verified
+ZCZC MaxROOT 2555M
+ZCZC MaxROOT 2556M
+ZCZC MaxROOT 2558M
+ZCZC MaxROOT 2559M
+ZCZC MaxROOT 2560M
+ZCZC MaxROOT 2562M
+ZCZC MaxROOT 2564M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2248-D2C3 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2349-1178 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2450-1E51 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2551-5D34 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2652-3702 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2754-29E8 Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 2855-0DB2 Verified
+ZCZC MaxROOT 2565M

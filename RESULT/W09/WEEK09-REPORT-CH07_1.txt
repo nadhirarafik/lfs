@@ -1,0 +1,19 @@
+ZCZC ===== Chapter 07_1 =====  Week 09 =====
+ZCZC pwd /home/nadhirarafik/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-0000
+ZCZC hostname nadhirarafik
+ZCZC username nadhirarafik
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0045-0135 Verified
+ZCZC MaxLFS 3089M
+ZCZC MaxROOT 1729M
+ZCZC MaxMemory 95M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 97M
+ZCZC MaxMemory 98M
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0147-488F Verified
+ZCZC verifyTokenn nadhirarafikW09 nadhirarafik 0249-E4EB Verified
+ZCZC MaxMemory 99M
