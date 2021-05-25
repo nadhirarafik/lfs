@@ -1,0 +1,157 @@
+ZCZC ===== Chapter 08_61 =====  Week 10 =====
+ZCZC pwd /home/nadhirarafik/git/os211quiz/SandBox/W10/W10
+ZCZC date 210525-1748
+ZCZC hostname nadhirarafik
+ZCZC username nadhirarafik
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 4833-9579 Verified
+ZCZC MaxLFS 4651M
+ZCZC MaxROOT 3593M
+ZCZC MaxMemory 94M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 95M
+ZCZC MaxMemory 97M
+ZCZC MaxMemory 98M
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 4936-7290 Verified
+ZCZC MaxLFS 4657M
+ZCZC MaxMemory 99M
+ZCZC MaxMemory 154M
+ZCZC MaxLFS 4660M
+ZCZC MaxMemory 179M
+ZCZC MaxLFS 4662M
+ZCZC MaxLFS 4666M
+ZCZC MaxLFS 4672M
+ZCZC MaxLFS 4673M
+ZCZC MaxLFS 4674M
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5038-2F1F Verified
+ZCZC MaxLFS 4679M
+ZCZC MaxLFS 4680M
+ZCZC MaxLFS 4687M
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5140-6144 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5241-D79B Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5343-6864 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5445-045F Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5546-8C87 Verified
+ZCZC MaxLFS 4692M
+ZCZC MaxLFS 4696M
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5647-C422 Verified
+ZCZC MaxLFS 4698M
+ZCZC MaxLFS 4702M
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5749-9262 Verified
+ZCZC MaxLFS 4703M
+ZCZC MaxLFS 4721M
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5851-E19D Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5953-4355 Verified
+ZCZC MaxLFS 5708M
+ZCZC MaxLFS 6524M
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0055-DDF2 Verified
+ZCZC MaxLFS 7171M
+ZCZC MaxLFS 7484M
+ZCZC MaxLFS 7774M
+ZCZC MaxLFS 7917M
+ZCZC MaxLFS 8152M
+ZCZC MaxLFS 8423M
+ZCZC MaxLFS 8696M
+ZCZC MaxLFS 9282M
+ZCZC MaxLFS 9804M
+ZCZC MaxLFS 10014M
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0156-447C Verified
+ZCZC MaxLFS 10251M
+ZCZC MaxLFS 10486M
+ZCZC MaxLFS 10919M
+ZCZC MaxLFS 11138M
+ZCZC MaxLFS 11348M
+ZCZC MaxLFS 11487M
+ZCZC MaxLFS 11764M
+ZCZC MaxLFS 12211M
+ZCZC MaxLFS 12429M
+ZCZC MaxLFS 12643M
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0258-92BE Verified
+ZCZC MaxLFS 12960M
+ZCZC MaxLFS 13341M
+ZCZC MaxLFS 13510M
+ZCZC MaxLFS 13673M
+ZCZC MaxLFS 13863M
+ZCZC MaxLFS 14045M
+ZCZC MaxLFS 14228M
+ZCZC MaxLFS 14705M
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0359-C45C Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0500-8A87 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0601-4F77 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0704-B464 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0805-0140 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0907-E12E Verified
+ZCZC MaxMemory 232M
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1009-1C5F Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1110-8F05 Verified
+ZCZC MaxMemory 238M
+ZCZC MaxMemory 320M
+ZCZC MaxMemory 335M
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1212-BD4B Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1314-DC21 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1416-5CEB Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1518-81DC Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1619-8253 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1721-7A28 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1822-3EAE Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1924-687B Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 2026-F60B Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 2128-D9F0 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 2230-A14B Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 2332-0BE4 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 2434-F031 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 2537-8791 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 2640-3534 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 2742-9752 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 2844-55B5 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 2946-BAC0 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 3049-770B Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 3151-E477 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 3255-6022 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 3359-E003 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 3502-560C Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 3604-3F27 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 3706-6A8A Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 3809-E68D Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 3912-59DB Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 4015-A80F Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 4117-807A Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 4220-57E7 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 4323-BD2B Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 4425-6BD5 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 4527-1CBC Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 4630-26B6 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 4732-C9B3 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 4834-7AEE Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 4936-7290 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5038-2F1F Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5141-C9D4 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5245-BD9E Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5348-E7A5 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5451-9238 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5554-4594 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5656-0F78 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5758-1CC5 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 5901-BA63 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0003-4C40 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0105-892E Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0207-A824 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0310-DE7F Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0413-287B Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0516-326C Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0619-5827 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0722-0A8D Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0824-78F3 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 0927-DE1D Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1030-E57B Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1132-DB94 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1235-DF15 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1337-8D26 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1438-67B8 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1540-F886 Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1642-F2CF Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1745-4CAE Verified
+ZCZC verifyTokenn nadhirarafikW10 nadhirarafik 1847-9062 Verified
